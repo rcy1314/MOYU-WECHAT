@@ -170,7 +170,7 @@ def send_msg():
             "card_type":
             "news_notice",
             "main_title": {
-                "title": "劝摸",
+                "title": "摸鱼人日历",
                 "desc":
                 f"今天是 {today.year}年{today.month}月{today.day}日 {week_day_}",
             },
